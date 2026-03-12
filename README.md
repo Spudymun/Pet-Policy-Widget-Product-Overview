@@ -1,14 +1,14 @@
 # Pet Policy Widget Product Overview
 
-Краткий продуктовый обзор и прототип виджета для управления pet policy в отелях.
+A concise product overview and prototype for a hotel pet policy widget.
 
-В документе описаны:
+The document covers:
 
-- настройка правил отеля,
-- регистрация питомца гостем до заезда,
-- проверка на ресепшене,
-- ключевые риски, метрики и go-to-market логика.
+- hotel policy setup,
+- guest pet registration before arrival,
+- front-desk verification,
+- key risks, metrics, and go-to-market logic.
 
-Основной файл:
+Main file:
 
 - [Pet Policy Widget Product Overview.md](./Pet%20Policy%20Widget%20Product%20Overview.md)
